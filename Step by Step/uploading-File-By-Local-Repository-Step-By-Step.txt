@@ -1,6 +1,6 @@
 1 - criado meu repositorio remotamente, irei clonar o mesmo dando um gitBashHere na pasta criada localmente e passando o comando .git clone linkDoRepositorio.
 
-2- já com os arquivos na minha maquina e feitas as altereçãoes localmente, para subir o mesmo novamente para a nuvem primeiro vamos morer o arquivo para staged com o comando git add .
+2- já com os arquivos na minha maquina e feitas as altereçãoes localmente, para subir o mesmo novamente para a nuvem primeiro vamos mover o arquivo para staged com o comando git add .
 
 3- em seguida realizamos o commit com o comando git commit -m "mensagem passada no commit".
 
