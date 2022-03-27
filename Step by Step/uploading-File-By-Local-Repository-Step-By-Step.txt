@@ -4,4 +4,4 @@
 
 3- em seguida realizamos o commit com o comando git commit -m "mensagem passada no commit".
 
-4-quase pronto agora nosso arquivo já está pronto para subir, bastando dar um git push origin main. atenção, este origin main é o nome do diretorio podendo variar conforme alguma edição ou da nossa escolha.gi
+4-quase pronto agora nosso arquivo já está pronto para subir, bastando dar um git push origin main. atenção, este origin main é o nome do diretorio podendo variar conforme alguma edição da nossa escolha.
